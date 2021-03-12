@@ -1,0 +1,44 @@
+/* :root{
+  --h1: #2763BD;
+  --h2: #2763BD;
+  --h3: #2763BD;
+  --h4: #9F9F9F;
+  --h5: #424242;
+  --number: #9F9F9F;
+} */
+
+
+.heading{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  color: #101010;
+}
+
+/* Heading sizes*/
+.heading--h1{
+font-size: 72px;
+}
+.heading--h2{
+font-size: 64px;
+}
+.heading--h3{
+font-size: 32px;
+}
+.heading--h4{
+font-size: 24px;
+}
+.heading--h5{
+font-size: 18px;
+}
+.heading--small-descript{
+font-size: 14px;
+font-weight: 500;
+}
+
+/* Heading styles*/
+.heading--black{
+color: #101010;}
+.heading--gray{
+color: #9F9F9F;}
+.heading--red{
+color: #E60024;}
